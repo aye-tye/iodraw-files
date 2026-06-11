@@ -356,7 +356,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-115" value="蒋丽：诚信档案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A80srx4yACaK1JENSxP4-115" value="蒋丽：诚信档案录入&#xa;录入结果同步内部群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="3610" width="237" height="49" as="geometry" />
         </mxCell>
       </root>
