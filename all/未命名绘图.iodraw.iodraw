@@ -359,7 +359,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-121" value="员工" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A80srx4yACaK1JENSxP4-121" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="2850" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
