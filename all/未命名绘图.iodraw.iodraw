@@ -322,7 +322,7 @@
         <mxCell id="A80srx4yACaK1JENSxP4-3" value="通知员工：合规进一步调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="3470" width="196" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-4" value="约谈现场：合规罚单签署" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A80srx4yACaK1JENSxP4-4" value="约谈现场：合规罚单签署或通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="3470" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-6" value="配合公安/延续停职/舆情封锁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -343,7 +343,7 @@
         <mxCell id="A80srx4yACaK1JENSxP4-9" value="红线违规" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-2" target="A80srx4yACaK1JENSxP4-4">
           <mxGeometry x="-0.0091" y="-7" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="3420" />
+              <mxPoint x="780" y="3420" />
               <mxPoint x="742" y="3462" />
             </Array>
             <mxPoint as="offset" />
