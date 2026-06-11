@@ -16,7 +16,7 @@
         <mxCell id="A80srx4yACaK1JENSxP4-3" value="权限解封/全案归档" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-0">
           <mxGeometry x="43" y="389" width="196" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-4" value="约谈现场：合规罚单签署&#xa;解除劳动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-0">
+        <mxCell id="A80srx4yACaK1JENSxP4-4" value="约谈现场：合规罚单签署" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-0">
           <mxGeometry x="289" y="389" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-5" value="法务主导应诉" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-0">
@@ -335,7 +335,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-107" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A80srx4yACaK1JENSxP4-107" value="通知人事" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="623" y="3648" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-4" target="A80srx4yACaK1JENSxP4-107">
