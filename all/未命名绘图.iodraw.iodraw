@@ -196,11 +196,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-75" value="法律风险" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A80srx4yACaK1JENSxP4-47">
-          <mxGeometry x="0.0559" y="7" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-24" source="A80srx4yACaK1JENSxP4-33" target="A80srx4yACaK1JENSxP4-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -249,7 +244,7 @@
           <mxGeometry x="571" y="311" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-59" value="发起部门上报直属负责人" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-52">
-          <mxGeometry x="515" y="435" width="236" height="49" as="geometry" />
+          <mxGeometry x="515" y="400" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-60" value="对接合规部稽查组启动核查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-52">
           <mxGeometry x="507" y="559" width="252" height="49" as="geometry" />
