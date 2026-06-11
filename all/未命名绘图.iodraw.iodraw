@@ -72,6 +72,9 @@
         <mxCell id="A80srx4yACaK1JENSxP4-32" value="风控/证据固定/停职停权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="647" y="716" width="196" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="A80srx4yACaK1JENSxP4-24" source="A80srx4yACaK1JENSxP4-33" target="A80srx4yACaK1JENSxP4-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-33" value="多部门协同" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="659" y="873" width="172" height="49" as="geometry" />
         </mxCell>
@@ -166,6 +169,11 @@
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-112" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A80srx4yACaK1JENSxP4-85">
           <mxGeometry x="0.3948" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-114" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A80srx4yACaK1JENSxP4-85">
+          <mxGeometry x="0.3948" y="8" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
