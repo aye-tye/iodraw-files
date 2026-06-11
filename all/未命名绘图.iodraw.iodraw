@@ -355,6 +355,9 @@
         <mxCell id="A80srx4yACaK1JENSxP4-110" value="劳动仲裁风险" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="623" y="3670" width="237" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-115" value="约谈现场：合规罚单签署" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="3568" width="237" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
