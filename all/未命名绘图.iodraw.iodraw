@@ -67,7 +67,7 @@
         <mxCell id="A80srx4yACaK1JENSxP4-14" value="稽查：场地、人员、准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
           <mxGeometry x="74.5" y="170" width="196" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-15" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
+        <mxCell id="A80srx4yACaK1JENSxP4-15" value="部门经理：引导员工到场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
           <mxGeometry x="94" y="294" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-16" value="笔录核对与签字" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
