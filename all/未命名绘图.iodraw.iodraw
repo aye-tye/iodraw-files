@@ -46,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-24" value="核查定性与前置风控" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1181" width="1409" height="1060" as="geometry" />
+          <mxGeometry x="160" y="1210" width="1409" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-25" value="领导组（周总、文总、冯总）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="413" y="46" width="188" height="49" as="geometry" />
@@ -340,7 +340,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-110" value="劳动仲裁风险" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="623" y="3660" width="237" height="49" as="geometry" />
+          <mxGeometry x="623" y="3670" width="237" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
