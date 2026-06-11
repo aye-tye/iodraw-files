@@ -340,11 +340,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-93" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1171" y="1984.5" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-83" target="A80srx4yACaK1JENSxP4-93">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A80srx4yACaK1JENSxP4-95" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="1960" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
