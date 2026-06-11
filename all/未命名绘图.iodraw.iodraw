@@ -84,10 +84,10 @@
         <mxCell id="A80srx4yACaK1JENSxP4-36" value="人事部:停职/人事资料准备&#xa;-魏小枚" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="636" y="972" width="218" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-37" value="业务部门:临时交接/物资封存&#xa;部门经理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
+        <mxCell id="A80srx4yACaK1JENSxP4-37" value="业务部门:临时交接/物资封存&#xa;-部门经理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="904" y="964" width="250" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-38" value="舆情组:舆情风险、公安应急&#xa;王云鹏总" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
+        <mxCell id="A80srx4yACaK1JENSxP4-38" value="舆情组:舆情风险、公安应急&#xa;-王云鹏总" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="1204" y="972" width="178" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-24" source="A80srx4yACaK1JENSxP4-25" target="A80srx4yACaK1JENSxP4-26">
