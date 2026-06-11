@@ -336,7 +336,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-107" value="通知人事" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="623" y="3648" width="237" height="49" as="geometry" />
+          <mxGeometry x="623" y="3630" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-4" target="A80srx4yACaK1JENSxP4-107">
           <mxGeometry relative="1" as="geometry" />
