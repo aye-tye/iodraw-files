@@ -7,43 +7,8 @@
         <mxCell id="A80srx4yACaK1JENSxP4-0" value="后续处置" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=default;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="334" y="3130" width="1062" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-12" value="约谈开展" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A80srx4yACaK1JENSxP4-12" value="约谈开展" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700.5" y="2300" width="329" height="762" as="geometry" />
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-13" value="稽查：提前1天约谈方案审批" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
-          <mxGeometry x="94" y="46" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-14" value="稽查：场地、时间等通知部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
-          <mxGeometry x="74.5" y="133" width="196" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-15" value="部门经理：引导员工到场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
-          <mxGeometry x="94" y="230" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-16" value="稽查：笔录签字、资料签字&#xa;现场情况同步协作部门群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
-          <mxGeometry x="86" y="320" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-17" value="突发情况处置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
-          <mxGeometry x="43" y="410" width="259" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-12" source="A80srx4yACaK1JENSxP4-13" target="A80srx4yACaK1JENSxP4-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-12" source="A80srx4yACaK1JENSxP4-14" target="A80srx4yACaK1JENSxP4-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-12" source="A80srx4yACaK1JENSxP4-15" target="A80srx4yACaK1JENSxP4-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-12" source="A80srx4yACaK1JENSxP4-16" target="A80srx4yACaK1JENSxP4-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-24" value="核查定性与前置风控" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1182" width="1409" height="1060" as="geometry" />
@@ -358,6 +323,41 @@
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-115" value="蒋丽：诚信档案录入&#xa;录入结果同步内部群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="3610" width="237" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-13" value="稽查：提前1天约谈方案审批" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="794.5" y="2346" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-14" value="稽查：场地、时间等通知部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="775" y="2433" width="196" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-15" value="部门经理：引导员工到场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="794.5" y="2530" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-16" value="稽查：笔录签字、资料签字&#xa;现场情况同步协作部门群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="786.5" y="2620" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-17" value="突发情况处置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="743.5" y="2710" width="259" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-13" target="A80srx4yACaK1JENSxP4-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-14" target="A80srx4yACaK1JENSxP4-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-15" target="A80srx4yACaK1JENSxP4-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-16" target="A80srx4yACaK1JENSxP4-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
