@@ -324,7 +324,7 @@
           <mxGeometry x="623" y="3519" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-6" value="配合公安/延续停职/舆情封锁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1160" y="3520" width="243" height="57" as="geometry" />
+          <mxGeometry x="1150" y="3519" width="243" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-1" target="A80srx4yACaK1JENSxP4-2">
           <mxGeometry relative="1" as="geometry">
@@ -356,7 +356,7 @@
           <mxGeometry x="623" y="3670" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-115" value="诚信档案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="3519" width="237" height="49" as="geometry" />
+          <mxGeometry x="921" y="3600" width="237" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
