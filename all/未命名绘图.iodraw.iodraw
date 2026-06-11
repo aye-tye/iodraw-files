@@ -23,7 +23,7 @@
           <mxGeometry x="86" y="320" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-17" value="突发情况处置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
-          <mxGeometry x="43" y="420" width="259" height="67" as="geometry" />
+          <mxGeometry x="43" y="410" width="259" height="67" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-12" source="A80srx4yACaK1JENSxP4-13" target="A80srx4yACaK1JENSxP4-14">
           <mxGeometry relative="1" as="geometry">
@@ -199,7 +199,7 @@
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-109" value="要查" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A80srx4yACaK1JENSxP4-78">
           <mxGeometry x="-0.6683" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-60" value="领导组（周总、文总、冯总）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-52">
