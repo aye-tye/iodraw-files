@@ -336,8 +336,10 @@
         <mxCell id="A80srx4yACaK1JENSxP4-16" value="稽查：笔录签字、资料签字&#xa;现场情况同步协作部门群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="786.5" y="2620" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-17" target="A80srx4yACaK1JENSxP4-124">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A80srx4yACaK1JENSxP4-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="873" y="2850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-17" value="突发情况处置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="743.5" y="2710" width="259" height="60" as="geometry" />
@@ -361,9 +363,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-124" value="突发情况处置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="743.5" y="2850" width="259" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
