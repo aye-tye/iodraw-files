@@ -125,6 +125,9 @@
         <mxCell id="A80srx4yACaK1JENSxP4-31" value="常规约谈/正常履职" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="168" y="716" width="196" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="A80srx4yACaK1JENSxP4-24" source="A80srx4yACaK1JENSxP4-32" target="A80srx4yACaK1JENSxP4-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-32" value="风控/证据固定/停职停权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="647" y="716" width="196" height="49" as="geometry" />
         </mxCell>
