@@ -311,7 +311,7 @@
           <mxGeometry x="623" y="3519" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-6" value="配合公安/延续停职/舆情封锁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1116" y="3511" width="253" height="67" as="geometry" />
+          <mxGeometry x="1080" y="3510" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-1" target="A80srx4yACaK1JENSxP4-2">
           <mxGeometry relative="1" as="geometry">
@@ -335,7 +335,7 @@
         <mxCell id="A80srx4yACaK1JENSxP4-11" value="刑事犯罪" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-2" target="A80srx4yACaK1JENSxP4-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1243" y="3462" />
+              <mxPoint x="1220" y="3470" />
             </Array>
           </mxGeometry>
         </mxCell>
