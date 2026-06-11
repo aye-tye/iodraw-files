@@ -143,7 +143,7 @@
         <mxCell id="A80srx4yACaK1JENSxP4-36" value="人事部:停职/人事资料准备&#xa;魏小枚" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="636" y="972" width="218" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-37" value="业务部门:临时交接/物资封存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
+        <mxCell id="A80srx4yACaK1JENSxP4-37" value="业务部门:临时交接/物资封存&#xa;部门经理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="904" y="964" width="250" height="67" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-38" value="舆情组:风险评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
