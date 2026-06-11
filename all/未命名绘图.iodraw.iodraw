@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-60" value="领导组（周总、文总、冯总）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-52">
-          <mxGeometry x="507" y="480" width="252" height="49" as="geometry" />
+          <mxGeometry x="507" y="470" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-52" source="A80srx4yACaK1JENSxP4-53" target="A80srx4yACaK1JENSxP4-54">
           <mxGeometry relative="1" as="geometry">
