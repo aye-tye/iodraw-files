@@ -302,8 +302,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-107" target="A80srx4yACaK1JENSxP4-110">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A80srx4yACaK1JENSxP4-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="748.4761904761904" y="3610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-107" value="通知人事衔接劝退" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="3540" width="237" height="49" as="geometry" />
@@ -352,11 +354,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-110" value="劳动仲裁风险" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="3610" width="237" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-115" value="诚信档案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="3610" width="237" height="49" as="geometry" />
+          <mxGeometry x="630" y="3620" width="237" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
