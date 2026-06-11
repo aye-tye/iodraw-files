@@ -68,7 +68,7 @@
           <mxGeometry x="74.5" y="133" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-15" value="部门经理：引导员工到场" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
-          <mxGeometry x="94.5" y="220" width="156" height="49" as="geometry" />
+          <mxGeometry x="94" y="230" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-16" value="稽查：笔录签字、资料签字&#xa;现场情况同步协作部门群" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
           <mxGeometry x="86" y="320" width="172" height="49" as="geometry" />
