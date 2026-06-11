@@ -113,11 +113,8 @@
         <mxCell id="A80srx4yACaK1JENSxP4-26" value="研判处理方向" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="450" y="170" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-27" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
+        <mxCell id="A80srx4yACaK1JENSxP4-27" value="终止调查并反馈发起部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="75" y="381" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-28" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
-          <mxGeometry x="43" y="537" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-29" value="同步研判风险等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-24">
           <mxGeometry x="528" y="381" width="188" height="49" as="geometry" />
@@ -161,12 +158,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-24" source="A80srx4yACaK1JENSxP4-27" target="A80srx4yACaK1JENSxP4-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-42" value="问题属实" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-24" source="A80srx4yACaK1JENSxP4-26" target="A80srx4yACaK1JENSxP4-29">
+        <mxCell id="A80srx4yACaK1JENSxP4-42" value="需要处理" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-24" source="A80srx4yACaK1JENSxP4-26" target="A80srx4yACaK1JENSxP4-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="622" y="332" />
