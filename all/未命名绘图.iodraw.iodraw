@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-9" value="一般违规" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-0" source="A80srx4yACaK1JENSxP4-2" target="A80srx4yACaK1JENSxP4-4">
+        <mxCell id="A80srx4yACaK1JENSxP4-9" value="重大违规" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="A80srx4yACaK1JENSxP4-0" source="A80srx4yACaK1JENSxP4-2" target="A80srx4yACaK1JENSxP4-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="408" y="332" />
