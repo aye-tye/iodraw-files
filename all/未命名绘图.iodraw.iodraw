@@ -74,7 +74,7 @@
           <mxGeometry x="86" y="320" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-17" value="突发情况处置:一般/中度/重大/特殊" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
-          <mxGeometry x="43" y="430" width="259" height="67" as="geometry" />
+          <mxGeometry x="43" y="440" width="259" height="67" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-18" value="结果通报与归档" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="A80srx4yACaK1JENSxP4-12">
           <mxGeometry x="86" y="683" width="172" height="49" as="geometry" />
