@@ -343,6 +343,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="A80srx4yACaK1JENSxP4-101" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="2420" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
