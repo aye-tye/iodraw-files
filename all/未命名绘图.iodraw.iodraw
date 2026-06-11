@@ -306,7 +306,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-107" value="通知人事衔接劝退" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="3551" width="237" height="49" as="geometry" />
+          <mxGeometry x="630" y="3540" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-4" target="A80srx4yACaK1JENSxP4-107">
           <mxGeometry relative="1" as="geometry" />
@@ -339,11 +339,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-9" value="红线违规" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-2" target="A80srx4yACaK1JENSxP4-4">
-          <mxGeometry x="0.0753" y="15" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="742" y="3462" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-11" value="刑事犯罪" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-2" target="A80srx4yACaK1JENSxP4-6">
@@ -354,7 +353,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-110" value="劳动仲裁风险" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="3621" width="237" height="49" as="geometry" />
+          <mxGeometry x="630" y="3610" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-115" value="诚信档案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="3551" width="237" height="49" as="geometry" />
