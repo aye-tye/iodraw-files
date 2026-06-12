@@ -336,8 +336,18 @@
         <mxCell id="YV8YuskeHEg_0HH8J5jN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YV8YuskeHEg_0HH8J5jN-4" target="YV8YuskeHEg_0HH8J5jN-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YV8YuskeHEg_0HH8J5jN-15" value="不劝推" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV8YuskeHEg_0HH8J5jN-12">
+          <mxGeometry x="-0.1098" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YV8YuskeHEg_0HH8J5jN-4" target="YV8YuskeHEg_0HH8J5jN-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YV8YuskeHEg_0HH8J5jN-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV8YuskeHEg_0HH8J5jN-14">
+          <mxGeometry x="0.0051" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-4" value="人事：是否当场劝退" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="833" y="2600" width="80" height="80" as="geometry" />
