@@ -354,13 +354,13 @@
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-16" value="劝退" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV8YuskeHEg_0HH8J5jN-14">
           <mxGeometry x="0.0051" y="-3" relative="1" as="geometry">
-            <mxPoint x="-3" y="9" as="offset" />
+            <mxPoint x="3" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-4" value="人事：是否当场劝退&lt;div&gt;法务：仲裁风险&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="763" y="2600" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YV8YuskeHEg_0HH8J5jN-11" value="稽查通知员工回岗/停职调查" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YV8YuskeHEg_0HH8J5jN-11" value="稽查通知员工回岗/停职调查&lt;div&gt;部门衔接&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="2740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-13" value="稽查通知人事衔接&lt;div&gt;部门协作&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
