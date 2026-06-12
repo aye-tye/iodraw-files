@@ -352,7 +352,7 @@
         <mxCell id="YV8YuskeHEg_0HH8J5jN-4" value="人事：是否当场劝退" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="833" y="2600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YV8YuskeHEg_0HH8J5jN-11" value="稽查通知员工正常回岗/停职调查" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YV8YuskeHEg_0HH8J5jN-11" value="稽查通知员工回岗/停职调查" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-13" value="稽查通知人事衔接&lt;div&gt;部门协作&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
