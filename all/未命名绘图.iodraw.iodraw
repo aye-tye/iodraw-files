@@ -254,13 +254,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-107" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="748.4761904761904" y="3610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-107" value="法务：后续劳动仲裁" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="3540" width="237" height="49" as="geometry" />
+          <mxGeometry x="640" y="3540" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-4" target="A80srx4yACaK1JENSxP4-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -307,7 +302,7 @@
           <mxGeometry x="390" y="3470" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-4" value="人事：员工后续事项同步" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="3470" width="237" height="49" as="geometry" />
+          <mxGeometry x="640" y="3470" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-6" value="配合公安/延续停职/舆情封锁" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1120" y="3469" width="203" height="50" as="geometry" />
