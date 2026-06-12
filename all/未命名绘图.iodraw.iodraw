@@ -317,6 +317,9 @@
         <mxCell id="A80srx4yACaK1JENSxP4-14" value="部门经理：引导员工到场" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="775" y="2433" width="196" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="YV8YuskeHEg_0HH8J5jN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-15" target="YV8YuskeHEg_0HH8J5jN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-15" value="稽查：&#xa;1、笔录签字、资料签字&#xa;2、现场情况同步协作部门群" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="794.5" y="2520" width="156" height="49" as="geometry" />
         </mxCell>
@@ -330,14 +333,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="873" y="2600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-4" value="人事：是否当场劝退" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="832.5" y="2600" width="80" height="80" as="geometry" />
+          <mxGeometry x="833" y="2610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
