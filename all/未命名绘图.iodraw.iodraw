@@ -284,7 +284,7 @@
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-32" value="正常回岗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV8YuskeHEg_0HH8J5jN-31">
           <mxGeometry x="0.5594" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="27" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-2" target="A80srx4yACaK1JENSxP4-6">
