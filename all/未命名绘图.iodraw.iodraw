@@ -311,13 +311,13 @@
         <mxCell id="A80srx4yACaK1JENSxP4-115" value="蒋丽：诚信档案录入&#xa;录入结果同步内部群" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="3610" width="237" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-13" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="A80srx4yACaK1JENSxP4-13" value="稽查：1、地点、时间&#xa;2、约谈当日提前通知各部门" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="794.5" y="2346" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-14" value="稽查：1、地点、时间&#xa;2、约谈当日提前通知各部门" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="A80srx4yACaK1JENSxP4-14" value="部门经理：引导员工到场" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="775" y="2433" width="196" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-15" value="部门经理：引导员工到场" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="A80srx4yACaK1JENSxP4-15" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="794.5" y="2530" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-16" value="稽查：笔录签字、资料签字&#xa;现场情况同步协作部门群" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
