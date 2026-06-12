@@ -334,7 +334,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-4" value="人事：是否当场劝退" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="833" y="2610" width="80" height="80" as="geometry" />
+          <mxGeometry x="833" y="2600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
