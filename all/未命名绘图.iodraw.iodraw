@@ -369,7 +369,7 @@
         <mxCell id="YV8YuskeHEg_0HH8J5jN-13" value="稽查通知人事衔接" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="2740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YV8YuskeHEg_0HH8J5jN-19" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YV8YuskeHEg_0HH8J5jN-19" value="人事通知部门" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="2820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
