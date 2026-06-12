@@ -320,11 +320,8 @@
         <mxCell id="A80srx4yACaK1JENSxP4-15" value="稽查：&#xa;1、笔录签字、资料签字&#xa;2、现场情况同步协作部门群" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="794.5" y="2520" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-16" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="A80srx4yACaK1JENSxP4-16" value="人事：是否当场劝退" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="786.5" y="2610" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-17" value="突发情况处置" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="743.5" y="2710" width="259" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-13" target="A80srx4yACaK1JENSxP4-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -337,11 +334,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-15" target="A80srx4yACaK1JENSxP4-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-16" target="A80srx4yACaK1JENSxP4-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
