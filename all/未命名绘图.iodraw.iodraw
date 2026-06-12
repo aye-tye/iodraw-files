@@ -142,7 +142,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-83" value="稽查：约谈方案" style="whiteSpace=wrap;strokeWidth=2;" parent="A80srx4yACaK1JENSxP4-24" vertex="1">
+        <mxCell id="A80srx4yACaK1JENSxP4-83" value="通知部门" style="whiteSpace=wrap;strokeWidth=2;" parent="A80srx4yACaK1JENSxP4-24" vertex="1">
           <mxGeometry x="647" y="792" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-98" value="方案内容包括：&lt;div&gt;1、被约谈人、部门主管经理；稽查、合规人员&lt;/div&gt;&lt;div&gt;2、时间、地点&lt;/div&gt;&lt;div&gt;3、约谈大纲&lt;/div&gt;&lt;div&gt;4、应急方案及协作人员&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="A80srx4yACaK1JENSxP4-24" vertex="1">
