@@ -271,9 +271,6 @@
         <mxCell id="A80srx4yACaK1JENSxP4-2" value="分类处置" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="808" y="3300" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-3" value="通知员工：合规进一步调查" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="3470" width="196" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-4" value="约谈现场：合规罚单签署或通知" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="3470" width="237" height="49" as="geometry" />
         </mxCell>
@@ -285,11 +282,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-8" value="需要进一步研判" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-2" target="A80srx4yACaK1JENSxP4-3" edge="1">
+        <mxCell id="A80srx4yACaK1JENSxP4-8" value="需要进一步研判" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="475" y="3462" />
             </Array>
+            <mxPoint x="488" y="3470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-9" value="红线违规" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-2" target="A80srx4yACaK1JENSxP4-4" edge="1">
