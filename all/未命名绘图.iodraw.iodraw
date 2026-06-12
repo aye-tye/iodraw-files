@@ -342,7 +342,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YV8YuskeHEg_0HH8J5jN-4" target="YV8YuskeHEg_0HH8J5jN-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="2640" />
+              <mxPoint x="1000" y="2710" />
+              <mxPoint x="1020" y="2710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-16" value="劝退" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV8YuskeHEg_0HH8J5jN-14">
           <mxGeometry x="0.0051" y="-3" relative="1" as="geometry">
