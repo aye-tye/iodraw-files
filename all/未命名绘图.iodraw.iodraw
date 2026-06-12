@@ -317,11 +317,11 @@
         <mxCell id="A80srx4yACaK1JENSxP4-14" value="部门经理：引导员工到场" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="775" y="2433" width="196" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-15" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="794.5" y="2530" width="156" height="49" as="geometry" />
+        <mxCell id="A80srx4yACaK1JENSxP4-15" value="稽查：笔录签字、资料签字&#xa;现场情况同步协作部门群" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="794.5" y="2520" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A80srx4yACaK1JENSxP4-16" value="稽查：笔录签字、资料签字&#xa;现场情况同步协作部门群" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="786.5" y="2620" width="172" height="49" as="geometry" />
+        <mxCell id="A80srx4yACaK1JENSxP4-16" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="786.5" y="2610" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-17" value="突发情况处置" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="743.5" y="2710" width="259" height="60" as="geometry" />
