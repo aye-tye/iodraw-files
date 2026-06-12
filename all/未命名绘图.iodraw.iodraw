@@ -363,8 +363,14 @@
         <mxCell id="YV8YuskeHEg_0HH8J5jN-11" value="稽查通知员工回岗/停职调查&lt;div&gt;通知部门衔接&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="2740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YV8YuskeHEg_0HH8J5jN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YV8YuskeHEg_0HH8J5jN-13" target="YV8YuskeHEg_0HH8J5jN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-13" value="稽查通知人事衔接&lt;div&gt;部门协作&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YV8YuskeHEg_0HH8J5jN-17" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="2830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
