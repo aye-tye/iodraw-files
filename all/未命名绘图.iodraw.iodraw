@@ -371,8 +371,8 @@
         <mxCell id="YV8YuskeHEg_0HH8J5jN-19" value="人事通知部门" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="2820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YV8YuskeHEg_0HH8J5jN-23" value="人事：员工后续事项同步" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="3550" width="237" height="49" as="geometry" />
+        <mxCell id="YV8YuskeHEg_0HH8J5jN-23" value="蒋丽：诚信档案录入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="3469" width="160" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
