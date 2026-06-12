@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="A80srx4yACaK1JENSxP4-0" value="后续处置" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=default;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="354" y="3020" width="1062" height="630" as="geometry" />
+          <mxGeometry x="354" y="3020" width="1062" height="560" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-12" value="约谈开展" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="2300" width="750" height="650" as="geometry" />
@@ -261,7 +261,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A80srx4yACaK1JENSxP4-1" value="后续处理" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="770.5" y="3094" width="228" height="49" as="geometry" />
+          <mxGeometry x="770.5" y="3106" width="228" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-2" target="YV8YuskeHEg_0HH8J5jN-23">
           <mxGeometry relative="1" as="geometry" />
@@ -280,12 +280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A80srx4yACaK1JENSxP4-2" target="A80srx4yACaK1JENSxP4-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="885" y="3320" />
-              <mxPoint x="528" y="3320" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YV8YuskeHEg_0HH8J5jN-32" value="正常回岗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV8YuskeHEg_0HH8J5jN-31">
           <mxGeometry x="0.5594" relative="1" as="geometry">
